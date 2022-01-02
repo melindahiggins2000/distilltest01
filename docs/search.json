@@ -6,7 +6,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T16:17:55-05:00"
+      "last_modified": "2022-01-02T16:30:24-05:00"
     },
     {
       "path": "distill_article_example.html",
@@ -20,7 +20,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T16:17:56-05:00"
+      "last_modified": "2022-01-02T16:30:27-05:00"
     },
     {
       "path": "distill_article_example2.html",
@@ -34,21 +34,21 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T16:17:56-05:00"
+      "last_modified": "2022-01-02T16:30:27-05:00"
     },
     {
       "path": "index.html",
       "title": "My Blog",
       "author": [],
       "contents": "\r\nWelcome to the Site\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T16:17:57-05:00"
+      "last_modified": "2022-01-02T16:30:28-05:00"
     },
     {
       "path": "posts.html",
       "title": "My Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T16:17:57-05:00"
+      "last_modified": "2022-01-02T16:30:28-05:00"
     }
   ],
   "collections": ["posts/posts.json"]

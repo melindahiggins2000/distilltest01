@@ -117,7 +117,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"NULL"}
+  {"type":"character","attributes":{},"value":["post01_files/anchor-4.2.2/anchor.min.js","post01_files/bowser-1.9.3/bowser.min.js","post01_files/distill-2.2.21/template.v2.js","post01_files/figure-html5/unnamed-chunk-1-1.png","post01_files/header-attrs-2.11/header-attrs.js","post01_files/jquery-3.5.1/AUTHORS.txt","post01_files/jquery-3.5.1/jquery-1.12.4.js","post01_files/jquery-3.5.1/jquery-1.12.4.min.js","post01_files/jquery-3.5.1/jquery-1.12.4.min.map","post01_files/jquery-3.5.1/jquery-2.2.4.js","post01_files/jquery-3.5.1/jquery-2.2.4.min.js","post01_files/jquery-3.5.1/jquery-2.2.4.min.map","post01_files/jquery-3.5.1/jquery-3.5.1.js","post01_files/jquery-3.5.1/jquery-3.5.1.min.js","post01_files/jquery-3.5.1/jquery-3.5.1.min.map","post01_files/jquery-3.5.1/LICENSE.txt","post01_files/popper-2.6.0/popper.min.js","post01_files/tippy-6.2.7/tippy-bundle.umd.min.js","post01_files/tippy-6.2.7/tippy-light-border.css","post01_files/tippy-6.2.7/tippy.css","post01_files/tippy-6.2.7/tippy.umd.min.js","post01_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
   <!--/radix_placeholder_navigation_in_header-->
@@ -1482,6 +1482,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 
 <div class="d-article">
+<div class="layout-chunk" data-layout="l-body-outset">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='kw'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='op'>(</span><span class='va'><a href='https://ggplot2.tidyverse.org'>ggplot2</a></span><span class='op'>)</span>
+<span class='fu'><a href='https://ggplot2.tidyverse.org/reference/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='va'>diamonds</span>, <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/aes.html'>aes</a></span><span class='op'>(</span><span class='va'>carat</span>, <span class='va'>price</span><span class='op'>)</span><span class='op'>)</span> <span class='op'>+</span> <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/geom_smooth.html'>geom_smooth</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span>
+  <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/facet_grid.html'>facet_grid</a></span><span class='op'>(</span><span class='op'>~</span> <span class='va'>cut</span><span class='op'>)</span>
+</code></pre>
+</div>
+<p><img src="post01_files/figure-html5/unnamed-chunk-1-1.png" width="624" data-distill-preview=1 /></p>
+</div>
 <p>Distill is a publication format for scientific and technical writing, native to the web.</p>
 <p>Learn more about using Distill at <a href="https://rstudio.github.io/distill" class="uri">https://rstudio.github.io/distill</a>.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>

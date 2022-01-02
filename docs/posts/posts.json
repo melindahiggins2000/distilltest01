@@ -11,10 +11,10 @@
     ],
     "date": "2022-01-02",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2022-01-02T16:17:24-05:00",
-    "input_file": {}
+    "contents": "\r\n\r\n\r\nlibrary(ggplot2)\r\nggplot(diamonds, aes(carat, price)) + geom_smooth() +\r\n  facet_grid(~ cut)\r\n\r\n\r\n\r\n\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-01-02-post01/post01_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-01-02T16:28:13-05:00",
+    "input_file": "post01.knit.md"
   },
   {
     "path": "posts/2022-01-02-post02/",

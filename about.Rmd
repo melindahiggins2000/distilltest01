@@ -7,3 +7,8 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## h2 details on about
+
+more details on the about page goes here
+

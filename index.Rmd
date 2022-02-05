@@ -1,7 +1,23 @@
 ---
-title: "My Blog"
+title: "Home page title"
 site: distill::distill_website
 ---
 
-Welcome to the Site
+# header 1: Welcome to the Site
+
+## a 2nd header under welcome
+
+some text goes here
+
+# poems
+
+## quick dog
+
+the quick red fox jumped over the lazy brown dog.
+
+## red roses
+
+roses are red violets are blue flowers are pretty and so are you
+
+
 

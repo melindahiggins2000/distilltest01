@@ -1,4 +1,4 @@
 ---
-title: "My Blog"
+title: "Listing of Blog Posts"
 listing: posts
 ---

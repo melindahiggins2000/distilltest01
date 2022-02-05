@@ -5,8 +5,8 @@
       "title": "About this blog",
       "description": "Some additional details about the blog",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T16:30:24-05:00"
+      "contents": "\r\n\r\nContents\r\nh2 details on about\r\n\r\nh2 details on about\r\nmore details on the about page goes here\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-05T07:40:34-05:00"
     },
     {
       "path": "distill_article_example.html",
@@ -20,7 +20,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T16:30:27-05:00"
+      "last_modified": "2022-02-05T07:40:35-05:00"
     },
     {
       "path": "distill_article_example2.html",
@@ -33,22 +33,22 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T16:30:27-05:00"
+      "contents": "\r\n\r\nContents\r\nh1 in a distill article\r\nh2 in distill article\r\n\r\n\r\nh1 in a distill article\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nh2 in distill article\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-05T07:40:35-05:00"
     },
     {
       "path": "index.html",
-      "title": "My Blog",
+      "title": "Home page title",
       "author": [],
-      "contents": "\r\nWelcome to the Site\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T16:30:28-05:00"
+      "contents": "\r\n\r\nContents\r\nheader 1: Welcome to the Site\r\na 2nd header under welcome\r\n\r\npoems\r\nquick dog\r\nred roses\r\n\r\n\r\nheader 1: Welcome to the Site\r\na 2nd header under welcome\r\nsome text goes here\r\npoems\r\nquick dog\r\nthe quick red fox jumped over the lazy brown dog.\r\nred roses\r\nroses are red violets are blue flowers are pretty and so are you\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-05T07:40:36-05:00"
     },
     {
       "path": "posts.html",
-      "title": "My Blog",
+      "title": "Listing of Blog Posts",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T16:30:28-05:00"
+      "last_modified": "2022-02-05T07:40:37-05:00"
     }
   ],
   "collections": ["posts/posts.json"]

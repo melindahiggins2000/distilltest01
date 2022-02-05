@@ -9,6 +9,9 @@ date: 2022-01-02
 output:
   distill::distill_article:
     self_contained: false
+categories:
+  - cat2
+  - cat3
 ---
 
 

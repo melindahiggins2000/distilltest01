@@ -19,6 +19,8 @@ navbar:
       href: posts.html
     - text: "About"
       href: about.html
+    - text: "Mindypc"
+      href: mindypc.html
 collections:
   posts:
     categories: true

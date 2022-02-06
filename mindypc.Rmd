@@ -1,0 +1,18 @@
+---
+title: "Melinda Higgins, PhD."
+subtitle: "test subtitle"
+image: "mindy.jpg"
+links:
+  - label: '`r fontawesome::fa("linkedin", fill = "black")`'
+    url: "https://linkedin.com/"
+  - label: '`r fontawesome::fa("twitter-square", fill = "black")`'
+    url: "https://twitter.com/"
+  - label: '`r fontawesome::fa("github-square", fill = "black")`'
+    url: "https://github.com/"
+  - label: '`r fontawesome::fa("envelope-open-text", fill = "black")`'
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+Melinda Higgins is a Professor, research track, and co-founder of [R-Ladies Atlanta](https://www.meetup.com/rladies-atlanta/) and current (2020-2022) Vice Chair of District 5 for the [American Statistical Association Council of Chapters](https://www.amstat.org/ASA/Membership/Chapters.aspx). She is also the author/creator of two online courses: [R for SAS Users](https://www.datacamp.com/courses/r-for-sas-users) and [Reproducible Templates for Analysis and Dissemination](https://www.coursera.org/learn/reproducible-templates-analysis).
